@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # Dependencies
@@ -22,3 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Resolve Conflict
+=======
+/node_modules
+.env
+>>>>>>> 3f9737590a159229ac219b5166591531eaf29343
